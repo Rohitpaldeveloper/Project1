@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>User Profile</title>
+</head>
+
+<body>
+    <table border="1" width="100%">
+        <tr bgcolor="#0CB3F7">
+            <td width="25%" height="100px">
+                <h1> &nbsp; &nbsp; User Profile</h1>
+            </td>
+            <td width="25%">
+
+            </td>
+            <td width="25%">
+
+            </td>
+            <td width="25%" align="right">
+                <a href="">Home</a>
+                <a href="">Settings</a>
+                <a href="">Edit Profile</a> &nbsp; &nbsp;
+            </td>
+        </tr>
+        <tr>
+            <td width="75%" height="550px" colspan="3"></td>
+            <td width="25%" height="550px"></td>
+        </tr>
+        <tr>
+            <td width="100%" height="100px" align="center" colspan="4" bgcolor="#0CB3F7">
+                Copyright | CodeWithBittuPal | 2022
+            </td>
+        </tr>
+    </table>
+
+</body>
+
+</html>
